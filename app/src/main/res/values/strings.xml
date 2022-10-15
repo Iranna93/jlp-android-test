@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">John Lewis</string>
+    <string name="label_main_activity">John Lewis Products</string>
+
+    <string name="message_out_of_stock">Out of stock</string>
+    <string name="message_not_loaded">Oops..There is no products to show.</string>
+    <string name="label_loading">Loading..</string>
+</resources>
